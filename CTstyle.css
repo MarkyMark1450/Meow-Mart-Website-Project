@@ -1,0 +1,58 @@
+body {
+  background: #D49BAE;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: 'Cute Meow', 'arial black';
+  font-weight: 700;
+  font-size: 160px;
+  text-align: center;
+  border: 5px solid #000;
+  color: #678CEC;
+  background-color: #BBCB50;
+  position: relative;
+  top: -120px;
+}
+
+p {
+  font-family: 'cat paws', 'arial black';
+  font-size: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+li {
+  font-family: 'Cute Meow', 'arial black';
+  font-size: 38px;
+  text-align: left;
+  border: 5px solid #000;
+  color: #000;
+  background-color: #D3C5E5;
+  margin: 20px;
+  padding: 40px;
+}
+
+img {
+  border: 5px solid #D49BAE;
+}
+
+img[alt] {
+  font-family: 'arial black';
+  font-size: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+form {
+  font-family: 'Times New Roman', 'arial black';
+  font-size: 40px;
+  border: 5px solid #000;
+  text-align: center;
+  background-color: #D3C5E5;
+}
