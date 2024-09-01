@@ -1,0 +1,49 @@
+body {
+  background: #375E97;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: 'oriental cats', 'arial black';
+  font-weight: 700;
+  font-size: 160px;
+  text-align: center;
+  color: #FB6542;
+  background-color: #FFBB00;
+  border: 5px solid #000;
+  position: relative;
+  top: -120px;
+}
+
+p {
+  font-family: 'cat paw', 'arial black';
+  font-size: 40px;
+  max-width: 1000px;
+  color: #FB6542;
+  background-color: #FFBB00;
+  border: 5px solid #000;
+}
+
+section {
+  font-family: 'cat paw', 'arial black';
+  font-size: 40px;
+  max-width: 1000px;
+}
+
+.round-box {
+  border-radius: 50%;
+}
+
+img {
+  border: 5px solid #FFBB00;
+}
+
+form {
+  font-family: 'Times New Roman', 'arial black';
+  font-size: 40px;
+  border: 5px solid #000;
+  text-align: center;
+  background-color: #FFBB00;
+}
